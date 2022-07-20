@@ -1,7 +1,7 @@
 ## Bubble-Sort-MIPS
 
 # About
-This program takes in a user-specified amount of numbers, puts them in an array, and sorts the array using Bubble Sort. It uses two procedures or funcitons that implement the stack in order to preserve registers. 
+This program takes in a user-specified amount of numbers, puts them in an array, and sorts the array using Bubble Sort. It uses two procedures or functions that implement the stack in order to preserve registers. 
 
 This program was made in, and performs best in, the [Mars](https://courses.missouristate.edu/KenVollmar/MARS/) IDE.
 
